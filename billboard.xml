@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billboard.xsl"?>
+<billboard xmlns="http://skuniv.ac.kr/bill"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://skuniv.ac.kr/bill billboard.xsd">
+	<song title="Thank U, Next">
+		<rank>1</rank>
+		<artist>
+			<name>Ariana Grande</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Pop</genre>
+		<album>Thank U, Next</album>
+		<img>thank u, next.jpg</img>
+		<release-date>2018.11.03</release-date>
+		<another-album>Sweetener</another-album>
+	</song>
+
+	<song title="Sicko Mode">
+		<rank>2</rank>
+		<artist>
+			<name>Travis Scott</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>sonymusic</distributor>
+		<genre>Rap/Hip-hop</genre>
+		<album>ASTROWORLD</album>
+		<img>ASTROWORLD.jpg</img>
+		<release-date>2018.08.03</release-date>
+		<another-album>Watch</another-album>
+	</song>
+
+	<song title="Happier">
+		<rank>3</rank>
+		<artist>
+			<name>Marshmello</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Dance</genre>
+		<album>Happier</album>
+		<img>Happier.png</img>
+		<release-date>2018.08.17</release-date>
+		<another-album>You Can Cry</another-album>
+	</song>
+
+	<song title="Without Me">
+		<rank>4</rank>
+		<artist>
+			<name>Halsey</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Pop</genre>
+		<album>Without Me</album>
+		<img>Without Me.jpg</img>
+		<release-date>2018.10.04</release-date>
+		<another-album>Eastside</another-album>
+	</song>
+
+	<song title="Girls Like You">
+		<rank>5</rank>
+		<artist>
+			<name>Maroon5</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Pop</genre>
+		<album>Girls Like You</album>
+		<img>Girls Like You.png</img>
+		<release-date>2018.08.01</release-date>
+		<another-album>Red Pill Blues</another-album>
+	</song>
+	
+	<song title="Lucid Dreams">
+		<rank>6</rank>
+		<artist>
+			<name>Juice WRLD</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Rap/Hip-hop</genre>
+		<album>Goodbye Good Riddance</album>
+		<img>Goodbye Good Riddance.jpg</img>
+		<release-date>2018.07.11</release-date>
+		<another-album>Legends</another-album>
+	</song>
+
+	<song title="Mo Bamba">
+		<rank>7</rank>
+		<artist>
+			<name>Sheck Wes</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Rap/Hip-hop</genre>
+		<album>Mo Bamba</album>
+		<img>Mo Bamba.jpg</img>
+		<release-date>2018.01.31</release-date>
+		<another-album>Do That</another-album>
+	</song>
+
+	<song title="High Hopes">
+		<rank>8</rank>
+		<artist>
+			<name>Panic! At The Disco</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>Warner Music Korea</distributor>
+		<genre>Rock</genre>
+		<album>Pray For The Wicked</album>
+		<img>Pray For The Wicked.jpg</img>
+		<release-date>2018.06.22</release-date>
+		<another-album>Pray For The Wicked</another-album>
+	</song>
+
+	<song title="ZEZE">
+		<rank>9</rank>
+		<artist>
+			<name>Kodak Black</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>Warner Music Korea</distributor>
+		<genre>Rap/Hip-hop</genre>
+		<album>ZEZE</album>
+		<img>ZEZE.jpg</img>
+		<release-date>2018.10.19</release-date>
+		<another-album>Take One</another-album>
+	</song>
+
+	<song title="Drip Too Hard">
+		<rank>10</rank>
+		<artist>
+			<name>Lil Baby</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Rap/Hip-hop</genre>
+		<album>Drip Too Hard</album>
+		<img>Drip Too Hard.jpg</img>
+		<release-date>2018.09.12</release-date>
+		<another-album>Looking for 30's</another-album>
+	</song>
+
+	<song title="Better Now">
+		<rank>11</rank>
+		<artist>
+			<name>Post Malone</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Rap/Hip-hop</genre>
+		<album>beerbongs bentleys</album>
+		<img>beerbongs bentleys.png</img>
+		<release-date>2018.04.27</release-date>
+		<another-album>Psycho</another-album>
+	</song>
+
+	<song title="Youngblood">
+		<rank>12</rank>
+		<artist>
+			<name>5 Seconds Of Summer</name>
+			<nationality>Australia</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Pop</genre>
+		<album>Youngblood</album>
+		<img>Youngblood.jpg</img>
+		<release-date>2018.06.15</release-date>
+		<another-album>Killer Queen</another-album>
+	</song>
+
+	<song title="Natural">
+		<rank>13</rank>
+		<artist>
+			<name>Imagine Dragons</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Pop</genre>
+		<album>Origins</album>
+		<img>Origins.png</img>
+		<release-date>2018.11.09</release-date>
+		<another-album>Killer Queen</another-album>
+	</song>
+
+	<song title="Breathin">
+		<rank>14</rank>
+		<artist>
+			<name>Ariana Grande</name>
+			<nationality>USA</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Pop</genre>
+		<album>Sweetener</album>
+		<img>Sweetener.jpg</img>
+		<release-date>2018.08.17</release-date>
+		<another-album>thank u, next</another-album>
+	</song>
+
+	<song title="Taki Taki">
+		<rank>15</rank>
+		<artist>
+			<name>DJ Snake</name>
+			<nationality>France</nationality>
+		</artist>
+		<distributor>universalmusic</distributor>
+		<genre>Dance</genre>
+		<album>Taki Taki</album>
+		<img>Taki Taki.png</img>
+		<release-date>2018.09.28</release-date>
+		<another-album>Maradona Riddim</another-album>
+	</song>
+</billboard>

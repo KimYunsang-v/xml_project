@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://skuniv.ac.kr/bill"
+	xmlns:target="http://skuniv.ac.kr/bill"
+	elementFormDefault="qualified">
+<group name="BGroup">
+	<sequence>
+		<element name="rank" type="string" minOccurs="0"/>
+		<element name="artist">		
+			<complexType>
+				<sequence>
+					<element name="name" type="string"/>
+					<element name="nationality" type="string"/>
+				</sequence>
+			</complexType>
+		</element>
+		<element name="distributor" type="string"/>
+		<element name="genre" type="string"/>
+		<element name="album" type="string"/>
+		<element name="img" type="string"/>
+		<element name="release-date" type="string"/>
+		<element name="another-album" type="string"/>
+	</sequence>
+</group>
+
+
+<element name="billboard">
+	<complexType>
+		<sequence>
+			<element name="song" maxOccurs="unbounded">
+				<complexType>
+					<group ref="target:BGroup"/>
+					<attribute name="title" type="string"/>
+				</complexType>
+			</element>
+		</sequence>
+	</complexType>
+</element>
+</schema>
